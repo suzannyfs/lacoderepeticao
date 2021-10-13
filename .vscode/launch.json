@@ -1,0 +1,161 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch exercicio6_laco",
+            "request": "launch",
+            "mainClass": "exercicio6_laco",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio7_laco",
+            "request": "launch",
+            "mainClass": "exercicio7_laco",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio5_laco",
+            "request": "launch",
+            "mainClass": "exercicio5_laco",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio1_laco",
+            "request": "launch",
+            "mainClass": "exercicio1_laco",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_3_ola",
+            "request": "launch",
+            "mainClass": "questao_3_ola",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_1_bem_vindo",
+            "request": "launch",
+            "mainClass": "questao_1_bem_vindo",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_10_eleicao",
+            "request": "launch",
+            "mainClass": "questao_10_eleicao",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_14_intdif",
+            "request": "launch",
+            "mainClass": "questao_14_intdif",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exmaiornumero",
+            "request": "launch",
+            "mainClass": "exmaiornumero",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_13_int",
+            "request": "launch",
+            "mainClass": "questao_13_int",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_15_peso",
+            "request": "launch",
+            "mainClass": "questao_15_peso",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemploop",
+            "request": "launch",
+            "mainClass": "exemploop",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_12_macas",
+            "request": "launch",
+            "mainClass": "questao_12_macas",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_9_media",
+            "request": "launch",
+            "mainClass": "questao_9_media",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_7_rateio",
+            "request": "launch",
+            "mainClass": "questao_7_rateio",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch questao_3_boas_vindas",
+            "request": "launch",
+            "mainClass": "questao_3_boas_vindas",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch qustao_3_boas_vindas",
+            "request": "launch",
+            "mainClass": "qustao_3_boas_vindas",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptionPane",
+            "request": "launch",
+            "mainClass": "ExemploOptionPane",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch bem_vindo",
+            "request": "launch",
+            "mainClass": "bem_vindo",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo_JOPane",
+            "request": "launch",
+            "mainClass": "exemplo_JOPane",
+            "projectName": "arquivos_java_2164b835"
+        },
+        {
+            "type": "java",
+            "name": "Launch ola_mundo",
+            "request": "launch",
+            "mainClass": "ola_mundo",
+            "projectName": "arquivos_java_2164b835"
+        }
+    ]
+}
